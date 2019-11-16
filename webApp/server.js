@@ -53,6 +53,7 @@ app.get('/statistics', (req, res) => {
     //res.send('GET request to the homepage\n')
 })
 // app.get('/timesHelloed', (req, res) => {
+    //testing
 //   console.log(req.query)
 //   res.render('timesHelloed.ejs', {timesHelloed:timesHelloed})
 //   //res.send('GET request to the homepage\n')
